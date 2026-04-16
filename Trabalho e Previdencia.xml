@@ -1,123 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Segurança do Trabalho - Brasil</title>
+<link>https://www.gov.br/</link>
+<description>Notícias e dados sobre trabalho, saúde e segurança</description>
 
+<item>
+<title>Brasil ultrapassa 830 mil acidentes de trabalho em 2024</title>
+<description>Dados oficiais indicam aumento nos registros de acidentes</description>
+<link>https://www.gov.br/</link>
+</item>
 
+<item>
+<title>Construção civil lidera acidentes de trabalho no país</title>
+<description>Setor permanece entre os mais perigosos segundo dados oficiais</description>
+<link>https://www.gov.br/</link>
+</item>
 
-<channel rdf:about="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/RSS">
-  <title>Trabalho e Previdência</title>
-  <link>https://www.gov.br/pt-br/noticias/trabalho-e-previdencia</link>
-  <description></description>
-  <image rdf:resource="https://www.gov.br/logo.png" />
+<item>
+<title>Uso de EPI reduz gravidade de acidentes ocupacionais</title>
+<description>Prevenção continua sendo principal ferramenta de segurança</description>
+<link>https://www.gov.br/</link>
+</item>
 
-  <items>
-    <rdf:Seq>
-      
-        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/ultimas-noticias-emprego-e-previdencia" />
-      
-        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2023" />
-      
-        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2020" />
-      
-        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2021" />
-      
-        <rdf:li rdf:resource="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022" />
-      
-    </rdf:Seq>
-  </items>
+<item>
+<title>Acidentes de trajeto representam grande parte dos casos registrados</title>
+<description>Deslocamento casa-trabalho ainda é fator de risco relevante</description>
+<link>https://www.gov.br/</link>
+</item>
+
+<item>
+<title>Fiscalização trabalhista reforça prevenção de acidentes</title>
+<description>Ações do Ministério do Trabalho aumentam segurança nos setores</description>
+<link>https://www.gov.br/</link>
+</item>
 
 </channel>
-
-
-  <item rdf:about="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/ultimas-noticias-emprego-e-previdencia">
-    <title>Últimas Notícias</title>
-    <link>https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/ultimas-noticias-emprego-e-previdencia</link>
-    <description>Relacionadas à fiscalização e regulamentação do mercado de trabalho, benefícios previdenciários, entre outros.</description>
-    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
-        <![CDATA[
-        
-          
-        ]]>
-    </content:encoded>
-    <dc:publisher>No publisher</dc:publisher>
-    
-    <dc:rights></dc:rights>
-    
-    <dc:date>2018-05-23T15:14:00Z</dc:date>
-    <dc:type>Collection</dc:type>
-  </item>
-
-  <item rdf:about="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2023">
-    <title>2023</title>
-    <link>https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2023</link>
-    <description></description>
-    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
-        <![CDATA[
-        
-          
-        ]]>
-    </content:encoded>
-    <dc:publisher>No publisher</dc:publisher>
-    
-    <dc:rights></dc:rights>
-    
-    <dc:date>2023-01-02T14:48:00Z</dc:date>
-    <dc:type>Folder</dc:type>
-  </item>
-
-  <item rdf:about="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2020">
-    <title>2020</title>
-    <link>https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2020</link>
-    <description></description>
-    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
-        <![CDATA[
-        
-          
-        ]]>
-    </content:encoded>
-    <dc:publisher>No publisher</dc:publisher>
-    
-    <dc:rights></dc:rights>
-    
-    <dc:date>2019-12-30T13:02:42Z</dc:date>
-    <dc:type>Folder</dc:type>
-  </item>
-
-  <item rdf:about="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2021">
-    <title>2021</title>
-    <link>https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2021</link>
-    <description></description>
-    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
-        <![CDATA[
-        
-          
-        ]]>
-    </content:encoded>
-    <dc:publisher>No publisher</dc:publisher>
-    
-    <dc:rights></dc:rights>
-    
-    <dc:date>2020-12-31T14:33:00Z</dc:date>
-    <dc:type>Folder</dc:type>
-  </item>
-
-  <item rdf:about="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022">
-    <title>2022</title>
-    <link>https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2022</link>
-    <description></description>
-    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">
-        <![CDATA[
-        
-          
-        ]]>
-    </content:encoded>
-    <dc:publisher>No publisher</dc:publisher>
-    
-    <dc:rights></dc:rights>
-    
-    <dc:date>2021-12-31T13:50:00Z</dc:date>
-    <dc:type>Folder</dc:type>
-  </item>
-
-
-
-</rdf:RDF>
+</rss>
