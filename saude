@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Saúde Ocupacional - Brasil</title>
+<link>https://www.gov.br/</link>
+<description>Informações sobre saúde pública e ocupacional</description>
+
+<item>
+<title>Aumento de casos de doenças ocupacionais no Brasil</title>
+<description>Estudos indicam crescimento em afastamentos por doenças relacionadas ao trabalho</description>
+<link>https://www.gov.br/</link>
+</item>
+
+<item>
+<title>Estresse e saúde mental são desafios no ambiente de trabalho</title>
+<description>Condições psicológicas afetam produtividade e segurança</description>
+<link>https://www.gov.br/</link>
+</item>
+
+<item>
+<title>Vacinação contribui para redução de afastamentos no trabalho</title>
+<description>Campanhas de imunização ajudam a manter saúde dos trabalhadores</description>
+<link>https://www.gov.br/</link>
+</item>
+
+<item>
+<title>Ergonomia reduz riscos de lesões no ambiente laboral</title>
+<description>Ajustes no ambiente de trabalho previnem doenças musculares</description>
+<link>https://www.gov.br/</link>
+</item>
+
+<item>
+<title>Saúde preventiva melhora segurança no trabalho</title>
+<description>Programas de prevenção reduzem acidentes e afastamentos</description>
+<link>https://www.gov.br/</link>
+</item>
+
+</channel>
+</rss>
